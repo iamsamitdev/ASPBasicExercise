@@ -1,0 +1,9 @@
+C:\Users\samit\Desktop\ASPBasicExercise\BasicProgrammingInASP\BasicProgrammingInASP\bin\BasicProgrammingInASP.dll.config
+C:\Users\samit\Desktop\ASPBasicExercise\BasicProgrammingInASP\BasicProgrammingInASP\bin\BasicProgrammingInASP.dll
+C:\Users\samit\Desktop\ASPBasicExercise\BasicProgrammingInASP\BasicProgrammingInASP\bin\BasicProgrammingInASP.pdb
+C:\Users\samit\Desktop\ASPBasicExercise\BasicProgrammingInASP\BasicProgrammingInASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\samit\Desktop\ASPBasicExercise\BasicProgrammingInASP\BasicProgrammingInASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\samit\Desktop\ASPBasicExercise\BasicProgrammingInASP\BasicProgrammingInASP\obj\Debug\BasicProgrammingInASP.csprojResolveAssemblyReference.cache
+C:\Users\samit\Desktop\ASPBasicExercise\BasicProgrammingInASP\BasicProgrammingInASP\obj\Debug\BasicProgrammingInASP.csproj.CoreCompileInputs.cache
+C:\Users\samit\Desktop\ASPBasicExercise\BasicProgrammingInASP\BasicProgrammingInASP\obj\Debug\BasicProgrammingInASP.dll
+C:\Users\samit\Desktop\ASPBasicExercise\BasicProgrammingInASP\BasicProgrammingInASP\obj\Debug\BasicProgrammingInASP.pdb

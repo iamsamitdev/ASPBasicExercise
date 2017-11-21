@@ -1,0 +1,9 @@
+C:\Users\samit\Desktop\ASPBasicExercise\FirstASPApp\FirstASPApp\bin\FirstASPApp.dll.config
+C:\Users\samit\Desktop\ASPBasicExercise\FirstASPApp\FirstASPApp\bin\FirstASPApp.dll
+C:\Users\samit\Desktop\ASPBasicExercise\FirstASPApp\FirstASPApp\bin\FirstASPApp.pdb
+C:\Users\samit\Desktop\ASPBasicExercise\FirstASPApp\FirstASPApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\samit\Desktop\ASPBasicExercise\FirstASPApp\FirstASPApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\samit\Desktop\ASPBasicExercise\FirstASPApp\FirstASPApp\obj\Debug\FirstASPApp.csprojResolveAssemblyReference.cache
+C:\Users\samit\Desktop\ASPBasicExercise\FirstASPApp\FirstASPApp\obj\Debug\FirstASPApp.csproj.CoreCompileInputs.cache
+C:\Users\samit\Desktop\ASPBasicExercise\FirstASPApp\FirstASPApp\obj\Debug\FirstASPApp.dll
+C:\Users\samit\Desktop\ASPBasicExercise\FirstASPApp\FirstASPApp\obj\Debug\FirstASPApp.pdb

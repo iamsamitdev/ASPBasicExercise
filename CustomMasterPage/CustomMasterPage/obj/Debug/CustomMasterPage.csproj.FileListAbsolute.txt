@@ -1,0 +1,9 @@
+C:\Users\samit\Desktop\ASPBasicExercise\CustomMasterPage\CustomMasterPage\bin\CustomMasterPage.dll.config
+C:\Users\samit\Desktop\ASPBasicExercise\CustomMasterPage\CustomMasterPage\bin\CustomMasterPage.dll
+C:\Users\samit\Desktop\ASPBasicExercise\CustomMasterPage\CustomMasterPage\bin\CustomMasterPage.pdb
+C:\Users\samit\Desktop\ASPBasicExercise\CustomMasterPage\CustomMasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\samit\Desktop\ASPBasicExercise\CustomMasterPage\CustomMasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\samit\Desktop\ASPBasicExercise\CustomMasterPage\CustomMasterPage\obj\Debug\CustomMasterPage.csprojResolveAssemblyReference.cache
+C:\Users\samit\Desktop\ASPBasicExercise\CustomMasterPage\CustomMasterPage\obj\Debug\CustomMasterPage.csproj.CoreCompileInputs.cache
+C:\Users\samit\Desktop\ASPBasicExercise\CustomMasterPage\CustomMasterPage\obj\Debug\CustomMasterPage.dll
+C:\Users\samit\Desktop\ASPBasicExercise\CustomMasterPage\CustomMasterPage\obj\Debug\CustomMasterPage.pdb

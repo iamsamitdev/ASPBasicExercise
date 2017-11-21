@@ -1,0 +1,9 @@
+C:\Users\samit\Desktop\ASPBasicExercise\LayoutWebPage\LayoutWebPage\bin\LayoutWebPage.dll.config
+C:\Users\samit\Desktop\ASPBasicExercise\LayoutWebPage\LayoutWebPage\bin\LayoutWebPage.dll
+C:\Users\samit\Desktop\ASPBasicExercise\LayoutWebPage\LayoutWebPage\bin\LayoutWebPage.pdb
+C:\Users\samit\Desktop\ASPBasicExercise\LayoutWebPage\LayoutWebPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\samit\Desktop\ASPBasicExercise\LayoutWebPage\LayoutWebPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\samit\Desktop\ASPBasicExercise\LayoutWebPage\LayoutWebPage\obj\Debug\LayoutWebPage.csprojResolveAssemblyReference.cache
+C:\Users\samit\Desktop\ASPBasicExercise\LayoutWebPage\LayoutWebPage\obj\Debug\LayoutWebPage.csproj.CoreCompileInputs.cache
+C:\Users\samit\Desktop\ASPBasicExercise\LayoutWebPage\LayoutWebPage\obj\Debug\LayoutWebPage.dll
+C:\Users\samit\Desktop\ASPBasicExercise\LayoutWebPage\LayoutWebPage\obj\Debug\LayoutWebPage.pdb

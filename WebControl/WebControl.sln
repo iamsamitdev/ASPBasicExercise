@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebControl", "WebControl\WebControl.csproj", "{75CE13EE-72B7-4E3B-BAD3-84629B85A70F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75CE13EE-72B7-4E3B-BAD3-84629B85A70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CE13EE-72B7-4E3B-BAD3-84629B85A70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CE13EE-72B7-4E3B-BAD3-84629B85A70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CE13EE-72B7-4E3B-BAD3-84629B85A70F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DFC85D0-D8D2-411B-BFD5-A2B4CEB73DAE}
+	EndGlobalSection
+EndGlobal

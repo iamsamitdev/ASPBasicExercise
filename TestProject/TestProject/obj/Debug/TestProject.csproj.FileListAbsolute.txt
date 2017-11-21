@@ -1,0 +1,9 @@
+C:\Users\samit\Desktop\ASPBasicExercise\TestProject\TestProject\bin\TestProject.dll.config
+C:\Users\samit\Desktop\ASPBasicExercise\TestProject\TestProject\bin\TestProject.dll
+C:\Users\samit\Desktop\ASPBasicExercise\TestProject\TestProject\bin\TestProject.pdb
+C:\Users\samit\Desktop\ASPBasicExercise\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\samit\Desktop\ASPBasicExercise\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\samit\Desktop\ASPBasicExercise\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\samit\Desktop\ASPBasicExercise\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\samit\Desktop\ASPBasicExercise\TestProject\TestProject\obj\Debug\TestProject.dll
+C:\Users\samit\Desktop\ASPBasicExercise\TestProject\TestProject\obj\Debug\TestProject.pdb

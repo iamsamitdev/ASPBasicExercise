@@ -1,0 +1,46 @@
+﻿body {
+	/*background-color:#a0d014;*/
+	background-image: url('../images/bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+}
+
+main {
+	width:1170px;
+	/*จัดกลางจอ*/
+	margin-left:auto;
+	margin-right:auto;
+}
+
+header {
+	height:200px;
+	background-color:#ff6a00;
+}
+
+nav {
+	height:50px;
+	background-color:#00ff21;
+}
+
+section#containner {
+	overflow: hidden;
+}
+
+section#containner section{
+	width:30%;
+	height:500px;
+	margin-right:5%;
+	background-color:#00ff90;
+	float:left; /*จัดตำแหน่งกล่องในแนวนอน*/
+}
+
+section#containner section:last-child {
+	margin-right:0;
+	float:right;
+}
+
+footer {
+	height:100px;
+	background-color:#808080;
+}
