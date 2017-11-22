@@ -1,0 +1,9 @@
+C:\Users\samit\Desktop\ASPBasicExercise\DatabaseConnect\DatabaseConnect\bin\DatabaseConnect.dll.config
+C:\Users\samit\Desktop\ASPBasicExercise\DatabaseConnect\DatabaseConnect\bin\DatabaseConnect.dll
+C:\Users\samit\Desktop\ASPBasicExercise\DatabaseConnect\DatabaseConnect\bin\DatabaseConnect.pdb
+C:\Users\samit\Desktop\ASPBasicExercise\DatabaseConnect\DatabaseConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\samit\Desktop\ASPBasicExercise\DatabaseConnect\DatabaseConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\samit\Desktop\ASPBasicExercise\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.csprojResolveAssemblyReference.cache
+C:\Users\samit\Desktop\ASPBasicExercise\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.csproj.CoreCompileInputs.cache
+C:\Users\samit\Desktop\ASPBasicExercise\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.dll
+C:\Users\samit\Desktop\ASPBasicExercise\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.pdb

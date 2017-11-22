@@ -1,0 +1,9 @@
+C:\Users\samit\Desktop\ASPBasicExercise\BasicDataType\BasicDataType\bin\BasicDataType.dll.config
+C:\Users\samit\Desktop\ASPBasicExercise\BasicDataType\BasicDataType\bin\BasicDataType.dll
+C:\Users\samit\Desktop\ASPBasicExercise\BasicDataType\BasicDataType\bin\BasicDataType.pdb
+C:\Users\samit\Desktop\ASPBasicExercise\BasicDataType\BasicDataType\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\samit\Desktop\ASPBasicExercise\BasicDataType\BasicDataType\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\samit\Desktop\ASPBasicExercise\BasicDataType\BasicDataType\obj\Debug\BasicDataType.csprojResolveAssemblyReference.cache
+C:\Users\samit\Desktop\ASPBasicExercise\BasicDataType\BasicDataType\obj\Debug\BasicDataType.csproj.CoreCompileInputs.cache
+C:\Users\samit\Desktop\ASPBasicExercise\BasicDataType\BasicDataType\obj\Debug\BasicDataType.dll
+C:\Users\samit\Desktop\ASPBasicExercise\BasicDataType\BasicDataType\obj\Debug\BasicDataType.pdb
